@@ -1,32 +1,32 @@
-/* Add this CSS to your stylesheet or within a <style> tag in the HTML file */
-.btn:hover {
-    background-color: #D7EBCF; /* Change this color to your desired hover color */
-    color: #4F9EE8; /* Change this color to your desired text color on hover */
-}
-/* Add this CSS to your stylesheet or within a <style> tag in the HTML file */
 .navbar-custom {
-    background-color: #D7EBCF; /* Change this color to your desired navbar background color */
+    background-color: #D7EBCF; 
 }
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
-    color: #333333; /* Change this color to your desired text color for links and brand */
+    color: #333333; 
 }
 
 .navbar-custom .navbar-toggler-icon {
-    background-color: #333333; /* Change this color to your desired color for the toggler icon (if needed) */
-}
-/* Add this CSS to your stylesheet or within a <style> tag in the HTML file */
-.containerx {
-    height: 40vh;
-}
-#contact-us {
-    background-color: #D7EBCF; /* Replace with your desired background color */
-}
-#contact-us h2, #contact-us p {
-    color: #333333; /* Replace with your desired text color */
+    background-color: #333333; 
 }
 
-/* Add this CSS to your stylesheet or within a <style> tag in the HTML file */
+.footer {
+    background: #f25252;
+    padding: 10px 0;
+  }
+  .footer a {
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px;
+    border-right: 1px solid #ffffff;
+    transition: all .5s ease;
+  }
+  .footer a:first-child {
+    border-left: 1px solid #70726F;
+  }
+  .footer a:hover {
+    color: #eb9408 ;
+  }
 
 
